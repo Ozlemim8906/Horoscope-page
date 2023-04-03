@@ -1,5 +1,5 @@
 {
-  "homepage": "https://harveycla.github.io/horoscope",
+  "homepage": "https://Ozlemim8906.github.io/Horoscope-page",
   "name": "solution",
   "version": "0.1.0",
   "private": true,
@@ -19,7 +19,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "yarn run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
@@ -41,3 +41,4 @@
     ]
   }
 }
+
